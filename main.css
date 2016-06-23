@@ -1,0 +1,62 @@
+
+html {
+	font-family: 'Raleway', sans-serif; font-weight: 400;
+}
+
+/* Orderly display*/
+.input { display: block;}
+
+header {
+	text-align: center;
+	background: url("http://www.preventionlane.org/wp-content/uploads/2015/02/blackboard.jpg");
+	background-size: cover;
+	color: white;
+}
+
+body {
+	text-align: center;
+	background: #898C90;
+}
+
+img {
+	margin: 40px 0px 0px 0px;
+	width: 150px; height: 200px;
+	border: 7px solid #FF9500;
+	border-radius: 20px;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+a {
+	color: white; }
+
+ul {
+	padding: 10px;
+	background: rgba(0,0,0,0.5);
+}
+li {
+	display: inline; padding: 0px 10px 0px 10px; }
+}
+
+button {
+	width: 30px; height: 20px;
+	border: 1px solid white;
+	border-radius: 20px;
+}
+
+button:hover {
+	background: #1AD6FD;
+	border: 1px solid #1AD6FD;
+	border-radius: 20px;
+}
+
+.input-button {
+	width: 135px; height: 20px;
+	text-align: center;
+}
+
+#average {
+	margin-top: 5px;
+}
